@@ -1,0 +1,1 @@
+{"version":3,"sources":["EditorStyles.css"],"names":[],"mappings":"AAIA,yDACE,YACF","file":"main.14670c8f.chunk.css","sourcesContent":[".monaco-editor .scroll-decoration {\n  display: none;\n}\n\n.monaco-aria-container {\n  display: none;\n}\n"]}
