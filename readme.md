@@ -1,6 +1,6 @@
-<h1 align="center"><a href="https://cmcarey.github.io/S-Algol/">S-Algol Compiler</a></h1>
+<h1 align="center"><a href="https://cmcarey.github.io/S-algol/">S-algol Compiler</a></h1>
 
-A compiler for the S-Algol programming language.
+A compiler for the S-algol programming language.
 
 Built for my [BSc thesis](./report.pdf).
 
@@ -9,4 +9,4 @@ Built for my [BSc thesis](./report.pdf).
 - Code generation targets Javascript
 - A web IDE is provided replete with syntax highlighting editor and REPL environment for running S-Algol programs and viewing text and vector output
 
-<a href="https://cmcarey.github.io/S-Algol/"><img src="./assets/screenshot.png" /></a>
+<a href="https://cmcarey.github.io/S-algol/"><img src="./assets/screenshot.png" /></a>
