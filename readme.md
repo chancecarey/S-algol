@@ -2,7 +2,7 @@
 
 A compiler for the S-algol programming language.
 
-Built for my [BSc thesis](./report.pdf).
+Built for my [BSc thesis](./report.pdf), which was awarded full marks.
 
 - Grammar was converted to LL-1 context free form, and a parser generator was built to take this form and create a fully typed Typescript parser
 - Analysis is performed according to S-algol type rules
